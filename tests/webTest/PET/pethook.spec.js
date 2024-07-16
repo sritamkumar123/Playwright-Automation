@@ -14,7 +14,7 @@ test.beforeAll(async ({ browser }) => {
 });
 test.beforeEach(async ()=>{
 
-    console.log("before each executed added with example");
+    console.log("before each executed added");
 });
 test.afterEach(async()=>{
 
