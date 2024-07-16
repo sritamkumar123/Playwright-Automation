@@ -1,0 +1,20 @@
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: {
+    id: '665f10aa0f01c131972aeb3f',
+    locationName: 'Fort Rickey Abernathychester'
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: {
+    id: '665f10aa0f01c131972aeb40',
+    locationName: 'Goyettefurt Fort Trishashire'
+  },
+  errors: [],
+  meta: {}
+}

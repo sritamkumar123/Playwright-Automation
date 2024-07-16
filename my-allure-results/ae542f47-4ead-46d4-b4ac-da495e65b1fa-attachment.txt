@@ -1,0 +1,5 @@
+Page is loaded from beforeAll
+before each executed
+test is executed
+after each executed
+after all executed

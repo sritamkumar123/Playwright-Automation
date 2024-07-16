@@ -1,0 +1,12 @@
+{
+  code: 200,
+  message: 'Records fetched successfully',
+  result: {
+    totalRecords: 19,
+    objectList: [ [Object], [Object], [Object], [Object], [Object] ]
+  },
+  errors: [],
+  meta: {}
+}
+gurads ids are: 666fc95d0f01c131972aeba0,666fcb160f01c131972aeba1,666fd2c20f01c131972aeba2,666fd3430f01c131972aeba3,666fd7a30f01c131972aeba4
+Total numbers of guards are: 5

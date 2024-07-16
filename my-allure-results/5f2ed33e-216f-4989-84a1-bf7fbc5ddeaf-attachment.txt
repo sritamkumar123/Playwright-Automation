@@ -1,0 +1,17 @@
+{
+  code: 200,
+  message: 'Teams fetched successfully',
+  result: {
+    totalRecords: 12,
+    currentRecords: 12,
+    teamDtoList: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ]
+  },
+  errors: []
+}

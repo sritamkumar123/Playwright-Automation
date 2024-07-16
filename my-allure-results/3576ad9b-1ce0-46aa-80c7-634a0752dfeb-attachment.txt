@@ -1,0 +1,16 @@
+{
+  code: 200,
+  message: 'Security guard member updated successfully.',
+  result: {
+    id: '665db7e5c35b5764052439cc',
+    emailId: 'Kenton.Herman@yahoo.com',
+    name: 'Vance Schoen',
+    password: 'g9+BJTa9ABdOpIjVNpjKfA==',
+    location: [ '664dc15398eb6f3082866936', '664dce3f98eb6f3082866940' ],
+    token: null,
+    event: '66548dcdc35b576405243929'
+  },
+  errors: [],
+  meta: {}
+}
+665db7e5c35b5764052439cc 664dc15398eb6f3082866936 664dce3f98eb6f3082866940 66548dcdc35b576405243929 665459b2c35b5764052438f5

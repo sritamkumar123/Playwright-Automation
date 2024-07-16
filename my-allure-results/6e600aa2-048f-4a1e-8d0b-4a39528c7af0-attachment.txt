@@ -1,0 +1,15 @@
+{
+  code: 200,
+  message: 'Security guard member updated successfully.',
+  result: {
+    id: '6672e7a60f01c131972aec36',
+    emailId: 'Candace.Davis@yopmail.com',
+    name: 'Robert Wehner',
+    password: '4NEL9uAF9FfWA2h7qJSz9Q==',
+    location: [ '6671a33b0f01c131972aec1e' ],
+    token: null,
+    event: '6661cafa0f01c131972aeb88'
+  },
+  errors: [],
+  meta: {}
+}

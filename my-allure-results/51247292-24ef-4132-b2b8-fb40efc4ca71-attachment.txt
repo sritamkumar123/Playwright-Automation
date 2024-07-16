@@ -1,0 +1,21 @@
+{
+  code: 200,
+  message: 'Records fetched successfully',
+  result: {
+    totalRecords: 28,
+    objectList: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object]
+    ]
+  },
+  errors: [],
+  meta: {}
+}

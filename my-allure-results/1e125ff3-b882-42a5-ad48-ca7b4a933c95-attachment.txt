@@ -1,0 +1,85 @@
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: { id: '665f2d790f01c131972aeb59', locationName: 'Eula Ericworth' },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: {
+    id: '665f2d790f01c131972aeb5a',
+    locationName: 'Tobin Port Maggieberg'
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: {
+    id: '665f2d7a0f01c131972aeb5b',
+    locationName: 'Eugenia Gislasonburgh'
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: { id: '665f2d7b0f01c131972aeb5c', locationName: 'Melyna Hilllville' },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: { id: '665f2d7b0f01c131972aeb5d', locationName: 'Mervin Costa Mesa' },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: {
+    id: '665f2d7c0f01c131972aeb5e',
+    locationName: 'Brooklyn Twin Falls'
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: { id: '665f2d7c0f01c131972aeb5f', locationName: 'Elza Port Joeboro' },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: { id: '665f2d7d0f01c131972aeb60', locationName: 'Drake Mauriceberg' },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: {
+    id: '665f2d7e0f01c131972aeb61',
+    locationName: 'Lorenza New Deborah'
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: {
+    id: '665f2d7e0f01c131972aeb62',
+    locationName: 'Jonatan Goldnerborough'
+  },
+  errors: [],
+  meta: {}
+}

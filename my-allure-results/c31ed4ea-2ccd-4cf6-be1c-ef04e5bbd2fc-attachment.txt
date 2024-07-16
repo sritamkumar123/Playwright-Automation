@@ -1,0 +1,7 @@
+{
+  code: 200,
+  message: 'Teams fetched successfully',
+  result: { totalRecords: 1, currentRecords: 1, teamDtoList: [ [Object] ] },
+  errors: []
+}
+[ '666a851153c2c77b0c5596eb' ]

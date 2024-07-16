@@ -1,0 +1,13 @@
+Extracted Ids [
+  '665ee2b50f01c131972aeaae',
+  '665ee2b60f01c131972aeaaf',
+  '665ee2b60f01c131972aeab0',
+  '665ee2b70f01c131972aeab1',
+  '665ee2b80f01c131972aeab2',
+  '665ee4670f01c131972aeab3',
+  '665ee4680f01c131972aeab4',
+  '665ee4680f01c131972aeab5',
+  '665ee4690f01c131972aeab6',
+  '665ee46a0f01c131972aeab7'
+]
+Total number of ids are: 10

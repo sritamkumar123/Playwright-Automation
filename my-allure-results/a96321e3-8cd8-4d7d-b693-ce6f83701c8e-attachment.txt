@@ -1,0 +1,115 @@
+{
+  code: 201,
+  message: 'User created successfully',
+  result: {
+    id: 40,
+    ssoId: 'AAAAA0196',
+    firstName: 'Elouise',
+    lastName: 'Robel',
+    profile: null,
+    gender: null,
+    email: 'lout@yopmail.com',
+    dateOfBirth: null,
+    phoneNo: null,
+    address: null,
+    deleted: false,
+    active: true,
+    superAdmin: false,
+    role: 'USER',
+    applicationResponseVOList: []
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 201,
+  message: 'User created successfully',
+  result: {
+    id: 41,
+    ssoId: 'AAAAA0724',
+    firstName: 'Forest',
+    lastName: 'Boehm',
+    profile: null,
+    gender: null,
+    email: 'shakedown@yopmail.com',
+    dateOfBirth: null,
+    phoneNo: null,
+    address: null,
+    deleted: false,
+    active: true,
+    superAdmin: false,
+    role: 'USER',
+    applicationResponseVOList: []
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 201,
+  message: 'User created successfully',
+  result: {
+    id: 42,
+    ssoId: 'AAAAA0764',
+    firstName: 'Candice',
+    lastName: 'Reichert',
+    profile: null,
+    gender: null,
+    email: 'relief@yopmail.com',
+    dateOfBirth: null,
+    phoneNo: null,
+    address: null,
+    deleted: false,
+    active: true,
+    superAdmin: false,
+    role: 'USER',
+    applicationResponseVOList: []
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 201,
+  message: 'User created successfully',
+  result: {
+    id: 43,
+    ssoId: 'AAAAA0674',
+    firstName: 'Berry',
+    lastName: 'Johnson',
+    profile: null,
+    gender: null,
+    email: 'petitioner@yopmail.com',
+    dateOfBirth: null,
+    phoneNo: null,
+    address: null,
+    deleted: false,
+    active: true,
+    superAdmin: false,
+    role: 'USER',
+    applicationResponseVOList: []
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 201,
+  message: 'User created successfully',
+  result: {
+    id: 44,
+    ssoId: 'AAAAA0792',
+    firstName: 'Sydni',
+    lastName: 'Franecki',
+    profile: null,
+    gender: null,
+    email: 'plowman@yopmail.com',
+    dateOfBirth: null,
+    phoneNo: null,
+    address: null,
+    deleted: false,
+    active: true,
+    superAdmin: false,
+    role: 'USER',
+    applicationResponseVOList: []
+  },
+  errors: [],
+  meta: {}
+}

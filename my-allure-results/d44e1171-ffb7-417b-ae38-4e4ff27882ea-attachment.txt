@@ -1,0 +1,90 @@
+{
+  code: 200,
+  message: 'Security guard member created successfully.',
+  result: {
+    id: '6672e77f0f01c131972aec2c',
+    emailId: 'Liza.Bailey@yopmail.com',
+    name: 'Mr. Ron Metz',
+    password: '4NEL9uAF9FfWA2h7qJSz9Q==',
+    location: [ '6671a33b0f01c131972aec1d' ],
+    token: null,
+    event: '66548dcdc35b576405243929'
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard member created successfully.',
+  result: {
+    id: '6672e7800f01c131972aec2d',
+    emailId: 'Granville.Hyatt@yopmail.com',
+    name: 'Karen Willms',
+    password: '4NEL9uAF9FfWA2h7qJSz9Q==',
+    location: [ '6671a33b0f01c131972aec1d' ],
+    token: null,
+    event: '66548dcdc35b576405243929'
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard member created successfully.',
+  result: {
+    id: '6672e7810f01c131972aec2e',
+    emailId: 'Elijah.Yundt@yopmail.com',
+    name: 'Dr. Nadine Hayes',
+    password: '4NEL9uAF9FfWA2h7qJSz9Q==',
+    location: [ '6671a33b0f01c131972aec1d' ],
+    token: null,
+    event: '66548dcdc35b576405243929'
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard member created successfully.',
+  result: {
+    id: '6672e7820f01c131972aec2f',
+    emailId: 'Dane.Kihn-Rogahn@yopmail.com',
+    name: "Derek O'Reilly",
+    password: '4NEL9uAF9FfWA2h7qJSz9Q==',
+    location: [ '6671a33b0f01c131972aec1d' ],
+    token: null,
+    event: '66548dcdc35b576405243929'
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard member created successfully.',
+  result: {
+    id: '6672e7830f01c131972aec30',
+    emailId: 'Liliane.Vandervort@yopmail.com',
+    name: 'Brandy Tillman',
+    password: '4NEL9uAF9FfWA2h7qJSz9Q==',
+    location: [ '6671a33b0f01c131972aec1d' ],
+    token: null,
+    event: '66548dcdc35b576405243929'
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard member created successfully.',
+  result: {
+    id: '6672e7840f01c131972aec31',
+    emailId: 'Alysha.White@yopmail.com',
+    name: 'Beth Kreiger',
+    password: '4NEL9uAF9FfWA2h7qJSz9Q==',
+    location: [ '6671a33b0f01c131972aec1d' ],
+    token: null,
+    event: '66548dcdc35b576405243929'
+  },
+  errors: [],
+  meta: {}
+}

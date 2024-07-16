@@ -1,0 +1,17 @@
+{
+  data: {
+    id: '101',
+    type: 'user',
+    attributes: {
+      first_name: 'Test',
+      last_name: 'Name',
+      phone_num: '919878976565',
+      email: 'qa@yopmail.com',
+      activated: true,
+      created_at: '24/05/2024',
+      spree_store: 'Pet cure zone',
+      profile_image: null,
+      profile_detail: [Object]
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  data: {
+    id: '101',
+    type: 'user',
+    attributes: {
+      first_name: 'sample test edited',
+      last_name: 'account created edited',
+      country_code: '+1',
+      phone_num: '6787865490',
+      email: 'qa@yopmail.com',
+      activated: true,
+      created_at: '24/05/2024',
+      spree_store: 'Pet cure zone',
+      profile_image: 'https://petcurezone-bucket.s3.ap-south-1.amazonaws.com/qa-petcurezone/petcurezone-bucket/0sdrjz4b6yri5c801nkyqguxdfqp',
+      profile_detail: [Object]
+    }
+  }
+}
+------------------------------------------------------------------------
+{
+  profile_detail_id: 583,
+  User: 101,
+  street_name: 'sample city edited',
+  landmark: 'address added with example',
+  pincode: '789765',
+  bio: 'details are updated on bio from playwright edited with details are added with low label details with example added with sample example added with new details are added into it with sample example'
+}

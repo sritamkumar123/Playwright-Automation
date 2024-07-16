@@ -1,0 +1,102 @@
+{
+  code: 200,
+  message: 'Event created successfully.',
+  result: {
+    id: '6661c82f0f01c131972aeb7f',
+    title: 'creativity',
+    startDate: 1790479800000,
+    startTime: 1750390692000,
+    endDate: 1790497800000,
+    endTime: 1750477092000,
+    registrationStartDate: 1750390692000,
+    registrationEndDate: 1750477092000,
+    formEnable: false,
+    createdDate: 1717684271229,
+    totalRecords: null
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Event created successfully.',
+  result: {
+    id: '6661c82f0f01c131972aeb80',
+    title: 'jellybeans',
+    startDate: 1790566200000,
+    startTime: 1750390692000,
+    endDate: 1790584200000,
+    endTime: 1750477092000,
+    registrationStartDate: 1750390692000,
+    registrationEndDate: 1750477092000,
+    formEnable: false,
+    createdDate: 1717684271902,
+    totalRecords: null
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Event created successfully.',
+  result: {
+    id: '6661c8300f01c131972aeb81',
+    title: 'completion',
+    startDate: 1790652600000,
+    startTime: 1750390692000,
+    endDate: 1790670600000,
+    endTime: 1750477092000,
+    registrationStartDate: 1750390692000,
+    registrationEndDate: 1750477092000,
+    formEnable: false,
+    createdDate: 1717684272538,
+    totalRecords: null
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Event created successfully.',
+  result: {
+    id: '6661c8310f01c131972aeb82',
+    title: 'activation',
+    startDate: 1790739000000,
+    startTime: 1750390692000,
+    endDate: 1790757000000,
+    endTime: 1750477092000,
+    registrationStartDate: 1750390692000,
+    registrationEndDate: 1750477092000,
+    formEnable: false,
+    createdDate: 1717684273175,
+    totalRecords: null
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Event created successfully.',
+  result: {
+    id: '6661c8310f01c131972aeb83',
+    title: 'impression',
+    startDate: 1790825400000,
+    startTime: 1750390692000,
+    endDate: 1790843400000,
+    endTime: 1750477092000,
+    registrationStartDate: 1750390692000,
+    registrationEndDate: 1750477092000,
+    formEnable: false,
+    createdDate: 1717684273844,
+    totalRecords: null
+  },
+  errors: [],
+  meta: {}
+}
+Capture ids: [
+  '6661c82f0f01c131972aeb7f',
+  '6661c82f0f01c131972aeb80',
+  '6661c8300f01c131972aeb81',
+  '6661c8310f01c131972aeb82',
+  '6661c8310f01c131972aeb83'
+]

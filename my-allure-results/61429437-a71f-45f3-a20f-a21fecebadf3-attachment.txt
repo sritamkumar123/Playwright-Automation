@@ -1,0 +1,19 @@
+APIResponse: 200 
+  Server: openresty
+  Date: Wed, 10 Jul 2024 15:13:25 GMT
+  Content-Type: application/json
+  Transfer-Encoding: chunked
+  Connection: close
+  Vary: Origin
+  Vary: Access-Control-Request-Method
+  Vary: Access-Control-Request-Headers
+  X-Content-Type-Options: nosniff
+  X-XSS-Protection: 0
+  Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+  Pragma: no-cache
+  Expires: 0
+  Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+  X-Frame-Options: DENY
+  X-Served-By: ga-tms-api-dev.green-apex.com
+eyJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJUTVMiLCJzdWIiOiI2NjJhNDU3ZTk3YzBmZjU0N2M5YTRlYTAiLCJlbWFpbCI6InZpdmVrQGdyZWVuLWFwZXguY29tIiwiaW1hZ2VVcmwiOiJodHRwczovL2dhLXNzby1iZS1xYS5zMy5hbWF6b25hd3MuY29tL2ZpbGVzLzA0JTNBNDQlM0E0NC42OTM3NjI1MTJXYWxscGFwZXIuanBnIiwidXNlck5hbWUiOiJWaXZlayBQYXRlbCIsInVzZXJJZCI6IjY2MmE0NTdlOTdjMGZmNTQ3YzlhNGVhMCIsInNzb0lkIjoiR0FJTkQwMTQ2Iiwicm9sZUlkIjoiNjYxZmE5MzQ2YjRlZjQ0ZGU2NmIxM2ZkIiwicm9sZU5hbWUiOiJBZG1pbiIsImlhdCI6MTcyMDYyNDQwNSwiZXhwIjoxNzIwNjM5NDA1fQ.-Z1EhJOKuxiV9YckUjJWCyUR0SOPQUlyNIenihXLMJSGOvSRKw_C5mkikW7KkxTEli9C3gY1gaEaGQZx75AtlA
+Auth token updated in .env file

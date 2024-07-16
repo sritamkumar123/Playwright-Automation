@@ -1,0 +1,14 @@
+{ data: [ { id: 7, name: 'Revolution', slug: 'revolution' } ] }
+{
+  data: [
+    {
+      id: 1,
+      name: 'NexGard® (afoxolaner) Chewables',
+      slug: 'nexgard-afoxolaner-chewables'
+    },
+    { id: 9, name: 'Nexgaurd', slug: 'nexgaurd' },
+    { id: 10, name: 'Nexxxx', slug: 'nexxxx' }
+  ]
+}
+{ data: [ { id: 16, name: 'Product', slug: 'product' } ] }
+{ data: [] }

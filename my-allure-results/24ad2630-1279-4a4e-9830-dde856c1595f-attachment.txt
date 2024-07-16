@@ -1,0 +1,20 @@
+{
+  httpStatus: 'OK',
+  jwt: 'eyJhbGciOiJIUzI1NiJ9.eyJyZXNldFBhc3N3b3JkIjpmYWxzZSwic3ViIjoiYWRtaW5AY29tZXgub20iLCJleHAiOjE3MzMyMjg0NzksImlhdCI6MTcxODcxMzI3OSwiaXNTZWN1cml0eUd1YXJkIjpmYWxzZX0.monn0PYe-7J55nN5TeI6Ezlv8HdZ6RyKv7wVboNhHvw',
+  error: null,
+  userId: '64ca289203adf849b8a6dacf',
+  userType: null,
+  loginType: null,
+  userEmail: 'admin@comex.om',
+  socialToken: null,
+  fullName: null,
+  designation: null,
+  phoneNumber: null,
+  communityMemberId: null,
+  companyName: null,
+  providerName: null,
+  profilePic: null,
+  xproJwt: null,
+  countryCode: null,
+  superAdmin: false
+}

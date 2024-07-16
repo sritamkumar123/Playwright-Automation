@@ -1,0 +1,75 @@
+{
+  code: 200,
+  message: 'Security guard member created successfully.',
+  result: {
+    id: '6672e7a10f01c131972aec32',
+    emailId: 'Jose.Conn-Ruecker@yopmail.com',
+    name: 'Charles Sporer DVM',
+    password: '4NEL9uAF9FfWA2h7qJSz9Q==',
+    location: [ '6671a33b0f01c131972aec1d' ],
+    token: null,
+    event: '66548dcdc35b576405243929'
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard member created successfully.',
+  result: {
+    id: '6672e7a30f01c131972aec33',
+    emailId: 'Ward.Bergnaum-Feeney@yopmail.com',
+    name: 'Mr. George Jacobson',
+    password: '4NEL9uAF9FfWA2h7qJSz9Q==',
+    location: [ '6671a33b0f01c131972aec1d' ],
+    token: null,
+    event: '66548dcdc35b576405243929'
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard member created successfully.',
+  result: {
+    id: '6672e7a40f01c131972aec34',
+    emailId: 'Gloria.Schinner@yopmail.com',
+    name: 'Justin Blanda',
+    password: '4NEL9uAF9FfWA2h7qJSz9Q==',
+    location: [ '6671a33b0f01c131972aec1d' ],
+    token: null,
+    event: '66548dcdc35b576405243929'
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard member created successfully.',
+  result: {
+    id: '6672e7a50f01c131972aec35',
+    emailId: 'Lonny.Ward@yopmail.com',
+    name: 'Edgar Roberts',
+    password: '4NEL9uAF9FfWA2h7qJSz9Q==',
+    location: [ '6671a33b0f01c131972aec1d' ],
+    token: null,
+    event: '66548dcdc35b576405243929'
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard member created successfully.',
+  result: {
+    id: '6672e7a60f01c131972aec36',
+    emailId: 'Candace.Davis@yopmail.com',
+    name: 'Silvia Thompson',
+    password: '4NEL9uAF9FfWA2h7qJSz9Q==',
+    location: [ '6671a33b0f01c131972aec1d' ],
+    token: null,
+    event: '66548dcdc35b576405243929'
+  },
+  errors: [],
+  meta: {}
+}

@@ -1,0 +1,7 @@
+{
+  code: 417,
+  message: 'Security guard already registered!',
+  result: null,
+  errors: [],
+  meta: {}
+}

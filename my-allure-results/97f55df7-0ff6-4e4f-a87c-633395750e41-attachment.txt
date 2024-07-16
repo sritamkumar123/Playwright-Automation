@@ -1,0 +1,91 @@
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: { id: '6671a2ba0f01c131972aebbd', locationName: 'Ciara Queenhaven' },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: {
+    id: '6671a2ba0f01c131972aebbe',
+    locationName: 'Loraine Port Robin'
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: { id: '6671a2bb0f01c131972aebbf', locationName: 'Elta Trystanville' },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: {
+    id: '6671a2bb0f01c131972aebc0',
+    locationName: 'Leland West Lucieside'
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: { id: '6671a2bc0f01c131972aebc1', locationName: 'Karelle Auerfort' },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: {
+    id: '6671a2bc0f01c131972aebc2',
+    locationName: 'Griffin Bartolettiworth'
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: {
+    id: '6671a2bd0f01c131972aebc3',
+    locationName: 'Forest Spring Valley'
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: {
+    id: '6671a2be0f01c131972aebc4',
+    locationName: 'Keaton Salt Lake City'
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: {
+    id: '6671a2be0f01c131972aebc5',
+    locationName: 'Patience Braunborough'
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: {
+    id: '6671a2bf0f01c131972aebc6',
+    locationName: 'Alexanne Lindgrenboro'
+  },
+  errors: [],
+  meta: {}
+}

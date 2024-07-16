@@ -1,0 +1,102 @@
+{
+  code: 200,
+  message: 'Event created successfully.',
+  result: {
+    id: '6661caf70f01c131972aeb84',
+    title: 'initialise',
+    startDate: 1790911800000,
+    startTime: 1750390692000,
+    endDate: 1790929800000,
+    endTime: 1750477092000,
+    registrationStartDate: 1750390692000,
+    registrationEndDate: 1750477092000,
+    formEnable: false,
+    createdDate: 1717684983749,
+    totalRecords: null
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Event created successfully.',
+  result: {
+    id: '6661caf80f01c131972aeb85',
+    title: 'management',
+    startDate: 1790998200000,
+    startTime: 1750390692000,
+    endDate: 1791016200000,
+    endTime: 1750477092000,
+    registrationStartDate: 1750390692000,
+    registrationEndDate: 1750477092000,
+    formEnable: false,
+    createdDate: 1717684984442,
+    totalRecords: null
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Event created successfully.',
+  result: {
+    id: '6661caf90f01c131972aeb86',
+    title: 'deposition',
+    startDate: 1791084600000,
+    startTime: 1750390692000,
+    endDate: 1791102600000,
+    endTime: 1750477092000,
+    registrationStartDate: 1750390692000,
+    registrationEndDate: 1750477092000,
+    formEnable: false,
+    createdDate: 1717684985057,
+    totalRecords: null
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Event created successfully.',
+  result: {
+    id: '6661caf90f01c131972aeb87',
+    title: 'volatility',
+    startDate: 1791171000000,
+    startTime: 1750390692000,
+    endDate: 1791189000000,
+    endTime: 1750477092000,
+    registrationStartDate: 1750390692000,
+    registrationEndDate: 1750477092000,
+    formEnable: false,
+    createdDate: 1717684985691,
+    totalRecords: null
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Event created successfully.',
+  result: {
+    id: '6661cafa0f01c131972aeb88',
+    title: 'proportion',
+    startDate: 1791257400000,
+    startTime: 1750390692000,
+    endDate: 1791275400000,
+    endTime: 1750477092000,
+    registrationStartDate: 1750390692000,
+    registrationEndDate: 1750477092000,
+    formEnable: false,
+    createdDate: 1717684986326,
+    totalRecords: null
+  },
+  errors: [],
+  meta: {}
+}
+Capture ids: [
+  '6661caf70f01c131972aeb84',
+  '6661caf80f01c131972aeb85',
+  '6661caf90f01c131972aeb86',
+  '6661caf90f01c131972aeb87',
+  '6661cafa0f01c131972aeb88'
+]

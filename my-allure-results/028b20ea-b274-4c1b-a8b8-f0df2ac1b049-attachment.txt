@@ -1,0 +1,115 @@
+{
+  code: 201,
+  message: 'User created successfully',
+  result: {
+    id: 32,
+    ssoId: 'AAAAA0607',
+    firstName: 'Rolando',
+    lastName: 'Rosenbaum',
+    profile: null,
+    gender: null,
+    email: 'naturalisation@yopmail.com',
+    dateOfBirth: null,
+    phoneNo: null,
+    address: null,
+    deleted: false,
+    active: true,
+    superAdmin: false,
+    role: 'USER',
+    applicationResponseVOList: []
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 201,
+  message: 'User created successfully',
+  result: {
+    id: 33,
+    ssoId: 'AAAAA0353',
+    firstName: 'Chelsea',
+    lastName: 'Yundt',
+    profile: null,
+    gender: null,
+    email: 'expectancy@yopmail.com',
+    dateOfBirth: null,
+    phoneNo: null,
+    address: null,
+    deleted: false,
+    active: true,
+    superAdmin: false,
+    role: 'USER',
+    applicationResponseVOList: []
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 201,
+  message: 'User created successfully',
+  result: {
+    id: 34,
+    ssoId: 'AAAAA0854',
+    firstName: 'Viva',
+    lastName: 'Hagenes',
+    profile: null,
+    gender: null,
+    email: 'initial@yopmail.com',
+    dateOfBirth: null,
+    phoneNo: null,
+    address: null,
+    deleted: false,
+    active: true,
+    superAdmin: false,
+    role: 'USER',
+    applicationResponseVOList: []
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 201,
+  message: 'User created successfully',
+  result: {
+    id: 35,
+    ssoId: 'AAAAA0977',
+    firstName: 'Ettie',
+    lastName: 'White',
+    profile: null,
+    gender: null,
+    email: 'drapes@yopmail.com',
+    dateOfBirth: null,
+    phoneNo: null,
+    address: null,
+    deleted: false,
+    active: true,
+    superAdmin: false,
+    role: 'USER',
+    applicationResponseVOList: []
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 201,
+  message: 'User created successfully',
+  result: {
+    id: 36,
+    ssoId: 'AAAAA0944',
+    firstName: 'Virginie',
+    lastName: 'Runolfsdottir',
+    profile: null,
+    gender: null,
+    email: 'energy@yopmail.com',
+    dateOfBirth: null,
+    phoneNo: null,
+    address: null,
+    deleted: false,
+    active: true,
+    superAdmin: false,
+    role: 'USER',
+    applicationResponseVOList: []
+  },
+  errors: [],
+  meta: {}
+}

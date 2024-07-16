@@ -1,0 +1,16 @@
+{
+  code: 200,
+  message: 'Security guard member updated successfully.',
+  result: {
+    id: '665d8f3bc35b5764052439bf',
+    emailId: 'Saul.Pfeffer@gmail.com',
+    name: 'Glen Balistreri',
+    password: 'HFHW6hmZYSxj3K1JpDpNTA==',
+    location: [ '664dc15398eb6f3082866936', '664dce3f98eb6f3082866940' ],
+    token: null,
+    event: '66548dcdc35b576405243929'
+  },
+  errors: [],
+  meta: {}
+}
+665d8f3bc35b5764052439bf 664dc15398eb6f3082866936 664dce3f98eb6f3082866940 66548dcdc35b576405243929 665459b2c35b5764052438f5

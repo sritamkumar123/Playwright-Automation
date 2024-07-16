@@ -1,0 +1,6 @@
+{
+  code: 200,
+  message: 'Teams fetched successfully',
+  result: { totalRecords: null, currentRecords: null, teamDtoList: null },
+  errors: []
+}

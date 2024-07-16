@@ -1,0 +1,2 @@
+Page is loaded from beforeAll
+page is loaded from test function

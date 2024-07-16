@@ -1,0 +1,19 @@
+{
+  code: 200,
+  message: 'Event created successfully.',
+  result: {
+    id: '6661c6560f01c131972aeb7d',
+    title: 'overflight',
+    startDate: 1789270200000,
+    startTime: 1750390692000,
+    endDate: 1789540200000,
+    endTime: 1750477092000,
+    registrationStartDate: 1750390692000,
+    registrationEndDate: 1750477092000,
+    formEnable: false,
+    createdDate: 1717683798820,
+    totalRecords: null
+  },
+  errors: [],
+  meta: {}
+}

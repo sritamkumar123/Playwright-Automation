@@ -1,0 +1,20 @@
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: {
+    id: '665f111e0f01c131972aeb43',
+    locationName: 'New Alice Stammshire'
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: {
+    id: '665f111f0f01c131972aeb44',
+    locationName: 'Ellisfort Jurupa Valley'
+  },
+  errors: [],
+  meta: {}
+}

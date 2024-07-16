@@ -1,0 +1,16 @@
+{
+  code: 200,
+  message: 'Security guard member updated successfully.',
+  result: {
+    id: '665cbc6ac35b5764052439b7',
+    emailId: 'Alena_Kiehn38@gmail.com',
+    name: 'Guadalupe Gerlach',
+    password: 'ADFR05487RfrGa9mC920Uw==',
+    location: [ '664dc15398eb6f3082866936' ],
+    token: null,
+    event: '66548dcdc35b576405243929'
+  },
+  errors: [],
+  meta: {}
+}
+undefined undefined undefined undefined undefined

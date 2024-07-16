@@ -1,0 +1,7 @@
+{
+  data: {
+    id: '8',
+    type: 'wishlist',
+    attributes: { user_id: 101, products: [Object] }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  code: 200,
+  message: 'Security guard deleted successfully.',
+  result: null,
+  errors: [],
+  meta: {}
+}

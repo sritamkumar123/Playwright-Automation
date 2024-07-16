@@ -1,0 +1,12 @@
+{
+  code: 200,
+  message: 'Records fetched successfully',
+  result: {
+    INVESTOR: [ [Object] ],
+    ORGANIZER: [ [Object] ],
+    TotalUser: 3,
+    VISITOR: [ [Object] ]
+  },
+  errors: [],
+  meta: {}
+}

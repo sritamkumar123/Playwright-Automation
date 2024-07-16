@@ -1,0 +1,91 @@
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: {
+    id: '665f2d510f01c131972aeb4f',
+    locationName: 'Isadore East Garett'
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: {
+    id: '665f2d520f01c131972aeb50',
+    locationName: 'Breanna Fort Heiditon'
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: { id: '665f2d530f01c131972aeb51', locationName: 'Frederic Monroe' },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: {
+    id: '665f2d530f01c131972aeb52',
+    locationName: 'Carmela Kuhicchester'
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: {
+    id: '665f2d540f01c131972aeb53',
+    locationName: 'Trystan Waelchistead'
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: {
+    id: '665f2d550f01c131972aeb54',
+    locationName: 'Carlotta Country Club'
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: { id: '665f2d550f01c131972aeb55', locationName: 'Rae West Mavis' },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: { id: '665f2d560f01c131972aeb56', locationName: 'Sadye Feilland' },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: {
+    id: '665f2d560f01c131972aeb57',
+    locationName: 'Geovany Lake Blanca'
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: {
+    id: '665f2d570f01c131972aeb58',
+    locationName: 'Antonette Kerlukefield'
+  },
+  errors: [],
+  meta: {}
+}

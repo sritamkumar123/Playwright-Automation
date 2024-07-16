@@ -1,0 +1,91 @@
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: {
+    id: '6671a2440f01c131972aeba9',
+    locationName: 'Aubrey Duncanworth'
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: {
+    id: '6671a2450f01c131972aebaa',
+    locationName: 'Ally North Fernberg'
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: {
+    id: '6671a2450f01c131972aebab',
+    locationName: 'Carolyn South Sydney'
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: {
+    id: '6671a2460f01c131972aebac',
+    locationName: 'Etha Henriettetown'
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: { id: '6671a2470f01c131972aebad', locationName: 'Heather Eunaside' },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: {
+    id: '6671a2470f01c131972aebae',
+    locationName: 'Felix Port Yasmineland'
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: { id: '6671a2480f01c131972aebaf', locationName: 'Quincy St. Cloud' },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: {
+    id: '6671a2480f01c131972aebb0',
+    locationName: 'Casandra Fort Jakobside'
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: {
+    id: '6671a2490f01c131972aebb1',
+    locationName: 'Brigitte Port Chanelle'
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: { id: '6671a2490f01c131972aebb2', locationName: 'Jenifer Veumworth' },
+  errors: [],
+  meta: {}
+}

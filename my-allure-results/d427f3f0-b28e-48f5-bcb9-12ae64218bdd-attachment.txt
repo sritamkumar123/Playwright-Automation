@@ -1,0 +1,85 @@
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: { id: '665f11f90f01c131972aeb45', locationName: 'Sterling Albany' },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: { id: '665f11f90f01c131972aeb46', locationName: 'Riley Johnsonberg' },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: {
+    id: '665f11fa0f01c131972aeb47',
+    locationName: 'Jeanette Lake Santina'
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: { id: '665f11fa0f01c131972aeb48', locationName: 'Mable Fort Harvey' },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: {
+    id: '665f11fb0f01c131972aeb49',
+    locationName: 'Ivah MacGyverfield'
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: {
+    id: '665f11fc0f01c131972aeb4a',
+    locationName: 'Carroll North Alejandra'
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: {
+    id: '665f11fc0f01c131972aeb4b',
+    locationName: 'Alyce McLaughlinborough'
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: { id: '665f11fd0f01c131972aeb4c', locationName: 'Edgar Ottisshire' },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: { id: '665f11fe0f01c131972aeb4d', locationName: 'Ethelyn Mishawaka' },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: {
+    id: '665f11fe0f01c131972aeb4e',
+    locationName: 'Chauncey Ricardomouth'
+  },
+  errors: [],
+  meta: {}
+}

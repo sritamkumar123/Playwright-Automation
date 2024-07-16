@@ -1,0 +1,15 @@
+{
+  code: 200,
+  message: 'Event fetched successfully.',
+  result: {
+    totalRecords: 8,
+    eventRegDtoList: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ]
+  },
+  errors: [],
+  meta: {}
+}

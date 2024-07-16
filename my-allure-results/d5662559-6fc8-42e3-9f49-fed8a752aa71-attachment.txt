@@ -1,0 +1,19 @@
+{
+  code: 200,
+  message: 'Event created successfully.',
+  result: {
+    id: '6661c7a20f01c131972aeb7e',
+    title: 'opposition',
+    startDate: 1790393400000,
+    startTime: 1750390692000,
+    endDate: 1790411400000,
+    endTime: 1750477092000,
+    registrationStartDate: 1750390692000,
+    registrationEndDate: 1750477092000,
+    formEnable: false,
+    createdDate: 1717684130051,
+    totalRecords: null
+  },
+  errors: [],
+  meta: {}
+}

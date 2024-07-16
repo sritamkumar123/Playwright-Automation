@@ -1,0 +1,20 @@
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: {
+    id: '665f11030f01c131972aeb41',
+    locationName: 'Harrisonburg Cheyenne'
+  },
+  errors: [],
+  meta: {}
+}
+{
+  code: 200,
+  message: 'Security guard location created successfully.',
+  result: {
+    id: '665f11040f01c131972aeb42',
+    locationName: 'Garden Grove Prosaccoside'
+  },
+  errors: [],
+  meta: {}
+}

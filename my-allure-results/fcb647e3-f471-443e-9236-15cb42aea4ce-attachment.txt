@@ -1,0 +1,10 @@
+{
+  code: 200,
+  message: 'Records fetched successfully',
+  result: {
+    totalRecords: 5,
+    objectList: [ [Object], [Object], [Object], [Object], [Object] ]
+  },
+  errors: [],
+  meta: {}
+}

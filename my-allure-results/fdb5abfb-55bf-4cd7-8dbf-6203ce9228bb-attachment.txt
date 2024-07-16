@@ -1,0 +1,15 @@
+{
+  code: 200,
+  message: 'Security guard member created successfully.',
+  result: {
+    id: '665cbc6ac35b5764052439b7',
+    emailId: 'Alena_Kiehn38@gmail.com',
+    name: 'Purdy',
+    password: 'ADFR05487RfrGa9mC920Uw==',
+    location: [ '664de86498eb6f308286694f' ],
+    token: null,
+    event: '66548dcdc35b576405243929'
+  },
+  errors: [],
+  meta: {}
+}

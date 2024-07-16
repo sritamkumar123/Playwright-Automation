@@ -1,0 +1,561 @@
+{
+  meta: {
+    spree_api_key: 'bc6071e9dcaa92dd6286db088941d38f9cdbcc7ca5950d9a',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyNzgsInRva2VuX3R5cGUiOiJsb2dpbiJ9.HfXT_TvYtDMWAf2pKdQJ4O-H8SCQUIz_wVhYGECVzaRB59Na_LSRQqBn1wNowZY08U_dqBE2ui8Pocy3ZZ87EQ',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4NzgsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.fjoqq-hr5GeU2BI8QzO_VYXYtB1OcGFdkv42OVaqRxca006o74xCgCx5ig_ozdjpPCVaN5586tlaq9hBFk45Rg',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyNzgsInRva2VuX3R5cGUiOiJsb2dpbiJ9.HfXT_TvYtDMWAf2pKdQJ4O-H8SCQUIz_wVhYGECVzaRB59Na_LSRQqBn1wNowZY08U_dqBE2ui8Pocy3ZZ87EQ
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: 'ec51c5fe2c689fd28450821048e04701badba08571c77e74',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyNzgsInRva2VuX3R5cGUiOiJsb2dpbiJ9.HfXT_TvYtDMWAf2pKdQJ4O-H8SCQUIz_wVhYGECVzaRB59Na_LSRQqBn1wNowZY08U_dqBE2ui8Pocy3ZZ87EQ',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4NzgsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.fjoqq-hr5GeU2BI8QzO_VYXYtB1OcGFdkv42OVaqRxca006o74xCgCx5ig_ozdjpPCVaN5586tlaq9hBFk45Rg',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyNzgsInRva2VuX3R5cGUiOiJsb2dpbiJ9.HfXT_TvYtDMWAf2pKdQJ4O-H8SCQUIz_wVhYGECVzaRB59Na_LSRQqBn1wNowZY08U_dqBE2ui8Pocy3ZZ87EQ
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: '26b9218fa1218fe7ed4106672591f11be8c0ebfa19ed357f',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyNzksInRva2VuX3R5cGUiOiJsb2dpbiJ9.SZazWWjWOdoWvryO3N1qaTF7q3DaxY-Bw-fuiVmmhyqgaL79I_zS3XZd3-kb0G7AyMqxYjQ7DnmfF4G93vI2RA',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4NzksInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.N9EprugrrWEN0JOuLvDOHWTrs2tpRRK7G4WctbqtoX3GT4j5P33XTQg17hv2Zw5IWCHeahxPZN5RnYmgbIFQjw',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyNzksInRva2VuX3R5cGUiOiJsb2dpbiJ9.SZazWWjWOdoWvryO3N1qaTF7q3DaxY-Bw-fuiVmmhyqgaL79I_zS3XZd3-kb0G7AyMqxYjQ7DnmfF4G93vI2RA
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: 'f1b42ed8e8edf4c8b670cfd19a2bc1564a9904d96f00f92d',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyNzksInRva2VuX3R5cGUiOiJsb2dpbiJ9.SZazWWjWOdoWvryO3N1qaTF7q3DaxY-Bw-fuiVmmhyqgaL79I_zS3XZd3-kb0G7AyMqxYjQ7DnmfF4G93vI2RA',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4NzksInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.N9EprugrrWEN0JOuLvDOHWTrs2tpRRK7G4WctbqtoX3GT4j5P33XTQg17hv2Zw5IWCHeahxPZN5RnYmgbIFQjw',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyNzksInRva2VuX3R5cGUiOiJsb2dpbiJ9.SZazWWjWOdoWvryO3N1qaTF7q3DaxY-Bw-fuiVmmhyqgaL79I_zS3XZd3-kb0G7AyMqxYjQ7DnmfF4G93vI2RA
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: '10b04e519cedb5abc72d1987eaa265fefb49a8005707654b',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyNzksInRva2VuX3R5cGUiOiJsb2dpbiJ9.SZazWWjWOdoWvryO3N1qaTF7q3DaxY-Bw-fuiVmmhyqgaL79I_zS3XZd3-kb0G7AyMqxYjQ7DnmfF4G93vI2RA',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4NzksInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.N9EprugrrWEN0JOuLvDOHWTrs2tpRRK7G4WctbqtoX3GT4j5P33XTQg17hv2Zw5IWCHeahxPZN5RnYmgbIFQjw',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyNzksInRva2VuX3R5cGUiOiJsb2dpbiJ9.SZazWWjWOdoWvryO3N1qaTF7q3DaxY-Bw-fuiVmmhyqgaL79I_zS3XZd3-kb0G7AyMqxYjQ7DnmfF4G93vI2RA
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: 'e9d9a4d4b929e58d9fc114d2d806e81ad198f7cec64a3b1d',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyNzksInRva2VuX3R5cGUiOiJsb2dpbiJ9.SZazWWjWOdoWvryO3N1qaTF7q3DaxY-Bw-fuiVmmhyqgaL79I_zS3XZd3-kb0G7AyMqxYjQ7DnmfF4G93vI2RA',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4NzksInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.N9EprugrrWEN0JOuLvDOHWTrs2tpRRK7G4WctbqtoX3GT4j5P33XTQg17hv2Zw5IWCHeahxPZN5RnYmgbIFQjw',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyNzksInRva2VuX3R5cGUiOiJsb2dpbiJ9.SZazWWjWOdoWvryO3N1qaTF7q3DaxY-Bw-fuiVmmhyqgaL79I_zS3XZd3-kb0G7AyMqxYjQ7DnmfF4G93vI2RA
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: '8470dbaf822560c227cc3c96f6fc6d154068dd1fe8362048',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyNzksInRva2VuX3R5cGUiOiJsb2dpbiJ9.SZazWWjWOdoWvryO3N1qaTF7q3DaxY-Bw-fuiVmmhyqgaL79I_zS3XZd3-kb0G7AyMqxYjQ7DnmfF4G93vI2RA',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4NzksInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.N9EprugrrWEN0JOuLvDOHWTrs2tpRRK7G4WctbqtoX3GT4j5P33XTQg17hv2Zw5IWCHeahxPZN5RnYmgbIFQjw',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyNzksInRva2VuX3R5cGUiOiJsb2dpbiJ9.SZazWWjWOdoWvryO3N1qaTF7q3DaxY-Bw-fuiVmmhyqgaL79I_zS3XZd3-kb0G7AyMqxYjQ7DnmfF4G93vI2RA
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: '0707146f6f772799ee7aacc045a885e743a66dc99826bfae',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyNzksInRva2VuX3R5cGUiOiJsb2dpbiJ9.SZazWWjWOdoWvryO3N1qaTF7q3DaxY-Bw-fuiVmmhyqgaL79I_zS3XZd3-kb0G7AyMqxYjQ7DnmfF4G93vI2RA',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4NzksInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.N9EprugrrWEN0JOuLvDOHWTrs2tpRRK7G4WctbqtoX3GT4j5P33XTQg17hv2Zw5IWCHeahxPZN5RnYmgbIFQjw',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyNzksInRva2VuX3R5cGUiOiJsb2dpbiJ9.SZazWWjWOdoWvryO3N1qaTF7q3DaxY-Bw-fuiVmmhyqgaL79I_zS3XZd3-kb0G7AyMqxYjQ7DnmfF4G93vI2RA
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: '402a5f1103536f8d3369fe5c2a0cd9a204f7ad80007294bb',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyNzksInRva2VuX3R5cGUiOiJsb2dpbiJ9.SZazWWjWOdoWvryO3N1qaTF7q3DaxY-Bw-fuiVmmhyqgaL79I_zS3XZd3-kb0G7AyMqxYjQ7DnmfF4G93vI2RA',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4NzksInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.N9EprugrrWEN0JOuLvDOHWTrs2tpRRK7G4WctbqtoX3GT4j5P33XTQg17hv2Zw5IWCHeahxPZN5RnYmgbIFQjw',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyNzksInRva2VuX3R5cGUiOiJsb2dpbiJ9.SZazWWjWOdoWvryO3N1qaTF7q3DaxY-Bw-fuiVmmhyqgaL79I_zS3XZd3-kb0G7AyMqxYjQ7DnmfF4G93vI2RA
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: 'da819b28c578857fab14a3daeb73efebf6d3ebefbc5851d1',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyNzksInRva2VuX3R5cGUiOiJsb2dpbiJ9.SZazWWjWOdoWvryO3N1qaTF7q3DaxY-Bw-fuiVmmhyqgaL79I_zS3XZd3-kb0G7AyMqxYjQ7DnmfF4G93vI2RA',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4NzksInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.N9EprugrrWEN0JOuLvDOHWTrs2tpRRK7G4WctbqtoX3GT4j5P33XTQg17hv2Zw5IWCHeahxPZN5RnYmgbIFQjw',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyNzksInRva2VuX3R5cGUiOiJsb2dpbiJ9.SZazWWjWOdoWvryO3N1qaTF7q3DaxY-Bw-fuiVmmhyqgaL79I_zS3XZd3-kb0G7AyMqxYjQ7DnmfF4G93vI2RA
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: '6b5fe2e67e584c2042f06be0f810cfadff0e9f39ba565f15',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODAsInRva2VuX3R5cGUiOiJsb2dpbiJ9.rWVgOTmvVjTzmL3mVGc0JI9ADZbtnQTzMoZz4_fzWGTlqbFu1R9ndMhuZwOEntU2jnI8A7_mQzGguGTqeNsw2g',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODAsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.C3rvR2_MnXuv5yuaJe50-4Rj38md_5mq-yGnUpZSr6u3N8gD4qnqGZ3BkxiS9PuZkElM_ZgFQqwsOFax9rDSBg',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODAsInRva2VuX3R5cGUiOiJsb2dpbiJ9.rWVgOTmvVjTzmL3mVGc0JI9ADZbtnQTzMoZz4_fzWGTlqbFu1R9ndMhuZwOEntU2jnI8A7_mQzGguGTqeNsw2g
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: 'd07a2502aca1631cfebdb01bbeeab7c31d4b4d1d3b0e19e3',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODAsInRva2VuX3R5cGUiOiJsb2dpbiJ9.rWVgOTmvVjTzmL3mVGc0JI9ADZbtnQTzMoZz4_fzWGTlqbFu1R9ndMhuZwOEntU2jnI8A7_mQzGguGTqeNsw2g',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODAsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.C3rvR2_MnXuv5yuaJe50-4Rj38md_5mq-yGnUpZSr6u3N8gD4qnqGZ3BkxiS9PuZkElM_ZgFQqwsOFax9rDSBg',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODAsInRva2VuX3R5cGUiOiJsb2dpbiJ9.rWVgOTmvVjTzmL3mVGc0JI9ADZbtnQTzMoZz4_fzWGTlqbFu1R9ndMhuZwOEntU2jnI8A7_mQzGguGTqeNsw2g
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: '7e375ef2e35ade03b953a1ad6934fe812fb52aee84c11488',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODAsInRva2VuX3R5cGUiOiJsb2dpbiJ9.rWVgOTmvVjTzmL3mVGc0JI9ADZbtnQTzMoZz4_fzWGTlqbFu1R9ndMhuZwOEntU2jnI8A7_mQzGguGTqeNsw2g',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODAsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.C3rvR2_MnXuv5yuaJe50-4Rj38md_5mq-yGnUpZSr6u3N8gD4qnqGZ3BkxiS9PuZkElM_ZgFQqwsOFax9rDSBg',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODAsInRva2VuX3R5cGUiOiJsb2dpbiJ9.rWVgOTmvVjTzmL3mVGc0JI9ADZbtnQTzMoZz4_fzWGTlqbFu1R9ndMhuZwOEntU2jnI8A7_mQzGguGTqeNsw2g
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: '575b620966420092a168d10082f2f0c3d83eb7a4a7ff323e',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODAsInRva2VuX3R5cGUiOiJsb2dpbiJ9.rWVgOTmvVjTzmL3mVGc0JI9ADZbtnQTzMoZz4_fzWGTlqbFu1R9ndMhuZwOEntU2jnI8A7_mQzGguGTqeNsw2g',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODAsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.C3rvR2_MnXuv5yuaJe50-4Rj38md_5mq-yGnUpZSr6u3N8gD4qnqGZ3BkxiS9PuZkElM_ZgFQqwsOFax9rDSBg',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODAsInRva2VuX3R5cGUiOiJsb2dpbiJ9.rWVgOTmvVjTzmL3mVGc0JI9ADZbtnQTzMoZz4_fzWGTlqbFu1R9ndMhuZwOEntU2jnI8A7_mQzGguGTqeNsw2g
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: '51805af5afacc621036df1f06852861ffe804ac4113ec74c',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODAsInRva2VuX3R5cGUiOiJsb2dpbiJ9.rWVgOTmvVjTzmL3mVGc0JI9ADZbtnQTzMoZz4_fzWGTlqbFu1R9ndMhuZwOEntU2jnI8A7_mQzGguGTqeNsw2g',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODAsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.C3rvR2_MnXuv5yuaJe50-4Rj38md_5mq-yGnUpZSr6u3N8gD4qnqGZ3BkxiS9PuZkElM_ZgFQqwsOFax9rDSBg',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODAsInRva2VuX3R5cGUiOiJsb2dpbiJ9.rWVgOTmvVjTzmL3mVGc0JI9ADZbtnQTzMoZz4_fzWGTlqbFu1R9ndMhuZwOEntU2jnI8A7_mQzGguGTqeNsw2g
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: '6d3362d80a169d6f443adc6e087152418aa2793cfa88de88',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODAsInRva2VuX3R5cGUiOiJsb2dpbiJ9.rWVgOTmvVjTzmL3mVGc0JI9ADZbtnQTzMoZz4_fzWGTlqbFu1R9ndMhuZwOEntU2jnI8A7_mQzGguGTqeNsw2g',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODAsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.C3rvR2_MnXuv5yuaJe50-4Rj38md_5mq-yGnUpZSr6u3N8gD4qnqGZ3BkxiS9PuZkElM_ZgFQqwsOFax9rDSBg',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODAsInRva2VuX3R5cGUiOiJsb2dpbiJ9.rWVgOTmvVjTzmL3mVGc0JI9ADZbtnQTzMoZz4_fzWGTlqbFu1R9ndMhuZwOEntU2jnI8A7_mQzGguGTqeNsw2g
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: '7b9f9254f40338930c6c4a7b97e5e856ab10a257f0ef504a',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODAsInRva2VuX3R5cGUiOiJsb2dpbiJ9.rWVgOTmvVjTzmL3mVGc0JI9ADZbtnQTzMoZz4_fzWGTlqbFu1R9ndMhuZwOEntU2jnI8A7_mQzGguGTqeNsw2g',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODAsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.C3rvR2_MnXuv5yuaJe50-4Rj38md_5mq-yGnUpZSr6u3N8gD4qnqGZ3BkxiS9PuZkElM_ZgFQqwsOFax9rDSBg',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODAsInRva2VuX3R5cGUiOiJsb2dpbiJ9.rWVgOTmvVjTzmL3mVGc0JI9ADZbtnQTzMoZz4_fzWGTlqbFu1R9ndMhuZwOEntU2jnI8A7_mQzGguGTqeNsw2g
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: '4722d1748013bb309f4a6e7c8140b74f94e1c5bfbd7e5f74',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODAsInRva2VuX3R5cGUiOiJsb2dpbiJ9.rWVgOTmvVjTzmL3mVGc0JI9ADZbtnQTzMoZz4_fzWGTlqbFu1R9ndMhuZwOEntU2jnI8A7_mQzGguGTqeNsw2g',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODAsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.C3rvR2_MnXuv5yuaJe50-4Rj38md_5mq-yGnUpZSr6u3N8gD4qnqGZ3BkxiS9PuZkElM_ZgFQqwsOFax9rDSBg',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODAsInRva2VuX3R5cGUiOiJsb2dpbiJ9.rWVgOTmvVjTzmL3mVGc0JI9ADZbtnQTzMoZz4_fzWGTlqbFu1R9ndMhuZwOEntU2jnI8A7_mQzGguGTqeNsw2g
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: '63ce3e0aed8b08e452f391fd54b976b0c2a9a7fcd5e8712a',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODAsInRva2VuX3R5cGUiOiJsb2dpbiJ9.rWVgOTmvVjTzmL3mVGc0JI9ADZbtnQTzMoZz4_fzWGTlqbFu1R9ndMhuZwOEntU2jnI8A7_mQzGguGTqeNsw2g',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODAsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.C3rvR2_MnXuv5yuaJe50-4Rj38md_5mq-yGnUpZSr6u3N8gD4qnqGZ3BkxiS9PuZkElM_ZgFQqwsOFax9rDSBg',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODAsInRva2VuX3R5cGUiOiJsb2dpbiJ9.rWVgOTmvVjTzmL3mVGc0JI9ADZbtnQTzMoZz4_fzWGTlqbFu1R9ndMhuZwOEntU2jnI8A7_mQzGguGTqeNsw2g
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: '05c07aa512a1ce2b14a4a728609cfe373435f388052c808f',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODAsInRva2VuX3R5cGUiOiJsb2dpbiJ9.rWVgOTmvVjTzmL3mVGc0JI9ADZbtnQTzMoZz4_fzWGTlqbFu1R9ndMhuZwOEntU2jnI8A7_mQzGguGTqeNsw2g',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODAsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.C3rvR2_MnXuv5yuaJe50-4Rj38md_5mq-yGnUpZSr6u3N8gD4qnqGZ3BkxiS9PuZkElM_ZgFQqwsOFax9rDSBg',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODAsInRva2VuX3R5cGUiOiJsb2dpbiJ9.rWVgOTmvVjTzmL3mVGc0JI9ADZbtnQTzMoZz4_fzWGTlqbFu1R9ndMhuZwOEntU2jnI8A7_mQzGguGTqeNsw2g
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: '38da5591d0e608aa521e4ab75eba8a58ae207c2acb6d9227',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODAsInRva2VuX3R5cGUiOiJsb2dpbiJ9.rWVgOTmvVjTzmL3mVGc0JI9ADZbtnQTzMoZz4_fzWGTlqbFu1R9ndMhuZwOEntU2jnI8A7_mQzGguGTqeNsw2g',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODAsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.C3rvR2_MnXuv5yuaJe50-4Rj38md_5mq-yGnUpZSr6u3N8gD4qnqGZ3BkxiS9PuZkElM_ZgFQqwsOFax9rDSBg',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODAsInRva2VuX3R5cGUiOiJsb2dpbiJ9.rWVgOTmvVjTzmL3mVGc0JI9ADZbtnQTzMoZz4_fzWGTlqbFu1R9ndMhuZwOEntU2jnI8A7_mQzGguGTqeNsw2g
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: '2eb691d652cf4ee757789d409e8a6c7c375944f240a47e40',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODAsInRva2VuX3R5cGUiOiJsb2dpbiJ9.rWVgOTmvVjTzmL3mVGc0JI9ADZbtnQTzMoZz4_fzWGTlqbFu1R9ndMhuZwOEntU2jnI8A7_mQzGguGTqeNsw2g',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODAsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.C3rvR2_MnXuv5yuaJe50-4Rj38md_5mq-yGnUpZSr6u3N8gD4qnqGZ3BkxiS9PuZkElM_ZgFQqwsOFax9rDSBg',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODAsInRva2VuX3R5cGUiOiJsb2dpbiJ9.rWVgOTmvVjTzmL3mVGc0JI9ADZbtnQTzMoZz4_fzWGTlqbFu1R9ndMhuZwOEntU2jnI8A7_mQzGguGTqeNsw2g
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: '9b76262fa61b2470452e0fef459b2dca5ac8aa9c0e1dc36b',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODAsInRva2VuX3R5cGUiOiJsb2dpbiJ9.rWVgOTmvVjTzmL3mVGc0JI9ADZbtnQTzMoZz4_fzWGTlqbFu1R9ndMhuZwOEntU2jnI8A7_mQzGguGTqeNsw2g',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODAsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.C3rvR2_MnXuv5yuaJe50-4Rj38md_5mq-yGnUpZSr6u3N8gD4qnqGZ3BkxiS9PuZkElM_ZgFQqwsOFax9rDSBg',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODAsInRva2VuX3R5cGUiOiJsb2dpbiJ9.rWVgOTmvVjTzmL3mVGc0JI9ADZbtnQTzMoZz4_fzWGTlqbFu1R9ndMhuZwOEntU2jnI8A7_mQzGguGTqeNsw2g
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: '2b7e7835b1671bac4ac0038e1863dab5d01ea54e97c75b91',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODAsInRva2VuX3R5cGUiOiJsb2dpbiJ9.rWVgOTmvVjTzmL3mVGc0JI9ADZbtnQTzMoZz4_fzWGTlqbFu1R9ndMhuZwOEntU2jnI8A7_mQzGguGTqeNsw2g',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODAsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.C3rvR2_MnXuv5yuaJe50-4Rj38md_5mq-yGnUpZSr6u3N8gD4qnqGZ3BkxiS9PuZkElM_ZgFQqwsOFax9rDSBg',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODAsInRva2VuX3R5cGUiOiJsb2dpbiJ9.rWVgOTmvVjTzmL3mVGc0JI9ADZbtnQTzMoZz4_fzWGTlqbFu1R9ndMhuZwOEntU2jnI8A7_mQzGguGTqeNsw2g
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: '2ba0b8c012537e73dfd7078b32c317c59e719aacd83a87c8',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODAsInRva2VuX3R5cGUiOiJsb2dpbiJ9.rWVgOTmvVjTzmL3mVGc0JI9ADZbtnQTzMoZz4_fzWGTlqbFu1R9ndMhuZwOEntU2jnI8A7_mQzGguGTqeNsw2g',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODAsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.C3rvR2_MnXuv5yuaJe50-4Rj38md_5mq-yGnUpZSr6u3N8gD4qnqGZ3BkxiS9PuZkElM_ZgFQqwsOFax9rDSBg',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODAsInRva2VuX3R5cGUiOiJsb2dpbiJ9.rWVgOTmvVjTzmL3mVGc0JI9ADZbtnQTzMoZz4_fzWGTlqbFu1R9ndMhuZwOEntU2jnI8A7_mQzGguGTqeNsw2g
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: 'fba86e3d1542deb783d6d5db24cf6f125061eeda7afcc56c',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODEsInRva2VuX3R5cGUiOiJsb2dpbiJ9.lG6Qy7zozn1Wlh7i9pfi6OjWmg1MWjNZpIQaG_YjAX-1MF1P-9iLEpiK30UtGzXwis3Vm34fiUiKyeQKrTgYdA',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODEsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.KuJr6m81rfzpjnQSUfr9zqC4PJ8dcTPmGydF6FdrHkaWci1uIDEcW8Fkz4_Vvom47VPsCPttOONBPJdGCdfAFw',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODEsInRva2VuX3R5cGUiOiJsb2dpbiJ9.lG6Qy7zozn1Wlh7i9pfi6OjWmg1MWjNZpIQaG_YjAX-1MF1P-9iLEpiK30UtGzXwis3Vm34fiUiKyeQKrTgYdA
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: 'af6c6f012175ce6c2603ed5e2da44e62ce35a477b0047998',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODEsInRva2VuX3R5cGUiOiJsb2dpbiJ9.lG6Qy7zozn1Wlh7i9pfi6OjWmg1MWjNZpIQaG_YjAX-1MF1P-9iLEpiK30UtGzXwis3Vm34fiUiKyeQKrTgYdA',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODEsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.KuJr6m81rfzpjnQSUfr9zqC4PJ8dcTPmGydF6FdrHkaWci1uIDEcW8Fkz4_Vvom47VPsCPttOONBPJdGCdfAFw',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODEsInRva2VuX3R5cGUiOiJsb2dpbiJ9.lG6Qy7zozn1Wlh7i9pfi6OjWmg1MWjNZpIQaG_YjAX-1MF1P-9iLEpiK30UtGzXwis3Vm34fiUiKyeQKrTgYdA
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: '00b8ac1a31be290060726d9bd1c7163d267fef76eea38ae2',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODEsInRva2VuX3R5cGUiOiJsb2dpbiJ9.lG6Qy7zozn1Wlh7i9pfi6OjWmg1MWjNZpIQaG_YjAX-1MF1P-9iLEpiK30UtGzXwis3Vm34fiUiKyeQKrTgYdA',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODEsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.KuJr6m81rfzpjnQSUfr9zqC4PJ8dcTPmGydF6FdrHkaWci1uIDEcW8Fkz4_Vvom47VPsCPttOONBPJdGCdfAFw',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODEsInRva2VuX3R5cGUiOiJsb2dpbiJ9.lG6Qy7zozn1Wlh7i9pfi6OjWmg1MWjNZpIQaG_YjAX-1MF1P-9iLEpiK30UtGzXwis3Vm34fiUiKyeQKrTgYdA
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: 'abb3c217a1e9dca174f5e6a95bbf86b38abab0de5571d69d',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODEsInRva2VuX3R5cGUiOiJsb2dpbiJ9.lG6Qy7zozn1Wlh7i9pfi6OjWmg1MWjNZpIQaG_YjAX-1MF1P-9iLEpiK30UtGzXwis3Vm34fiUiKyeQKrTgYdA',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODEsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.KuJr6m81rfzpjnQSUfr9zqC4PJ8dcTPmGydF6FdrHkaWci1uIDEcW8Fkz4_Vvom47VPsCPttOONBPJdGCdfAFw',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODEsInRva2VuX3R5cGUiOiJsb2dpbiJ9.lG6Qy7zozn1Wlh7i9pfi6OjWmg1MWjNZpIQaG_YjAX-1MF1P-9iLEpiK30UtGzXwis3Vm34fiUiKyeQKrTgYdA
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: 'ae9af3e3c14ac8fddc226622b7764dde94cf885f0c372505',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODEsInRva2VuX3R5cGUiOiJsb2dpbiJ9.lG6Qy7zozn1Wlh7i9pfi6OjWmg1MWjNZpIQaG_YjAX-1MF1P-9iLEpiK30UtGzXwis3Vm34fiUiKyeQKrTgYdA',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODEsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.KuJr6m81rfzpjnQSUfr9zqC4PJ8dcTPmGydF6FdrHkaWci1uIDEcW8Fkz4_Vvom47VPsCPttOONBPJdGCdfAFw',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODEsInRva2VuX3R5cGUiOiJsb2dpbiJ9.lG6Qy7zozn1Wlh7i9pfi6OjWmg1MWjNZpIQaG_YjAX-1MF1P-9iLEpiK30UtGzXwis3Vm34fiUiKyeQKrTgYdA
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: '1dd55bb7ce83c0e6e86ecc75cfd7b2281826915f4a82b6b8',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODEsInRva2VuX3R5cGUiOiJsb2dpbiJ9.lG6Qy7zozn1Wlh7i9pfi6OjWmg1MWjNZpIQaG_YjAX-1MF1P-9iLEpiK30UtGzXwis3Vm34fiUiKyeQKrTgYdA',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODEsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.KuJr6m81rfzpjnQSUfr9zqC4PJ8dcTPmGydF6FdrHkaWci1uIDEcW8Fkz4_Vvom47VPsCPttOONBPJdGCdfAFw',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODEsInRva2VuX3R5cGUiOiJsb2dpbiJ9.lG6Qy7zozn1Wlh7i9pfi6OjWmg1MWjNZpIQaG_YjAX-1MF1P-9iLEpiK30UtGzXwis3Vm34fiUiKyeQKrTgYdA
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: '8046d828825354809afcb9b12b77cb71d09722cb405cf663',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODEsInRva2VuX3R5cGUiOiJsb2dpbiJ9.lG6Qy7zozn1Wlh7i9pfi6OjWmg1MWjNZpIQaG_YjAX-1MF1P-9iLEpiK30UtGzXwis3Vm34fiUiKyeQKrTgYdA',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODEsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.KuJr6m81rfzpjnQSUfr9zqC4PJ8dcTPmGydF6FdrHkaWci1uIDEcW8Fkz4_Vvom47VPsCPttOONBPJdGCdfAFw',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODEsInRva2VuX3R5cGUiOiJsb2dpbiJ9.lG6Qy7zozn1Wlh7i9pfi6OjWmg1MWjNZpIQaG_YjAX-1MF1P-9iLEpiK30UtGzXwis3Vm34fiUiKyeQKrTgYdA
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: '6b87bb41342e5a0e4b238fce72f6fd6ddbf57e2e796e93ea',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODEsInRva2VuX3R5cGUiOiJsb2dpbiJ9.lG6Qy7zozn1Wlh7i9pfi6OjWmg1MWjNZpIQaG_YjAX-1MF1P-9iLEpiK30UtGzXwis3Vm34fiUiKyeQKrTgYdA',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODEsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.KuJr6m81rfzpjnQSUfr9zqC4PJ8dcTPmGydF6FdrHkaWci1uIDEcW8Fkz4_Vvom47VPsCPttOONBPJdGCdfAFw',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODEsInRva2VuX3R5cGUiOiJsb2dpbiJ9.lG6Qy7zozn1Wlh7i9pfi6OjWmg1MWjNZpIQaG_YjAX-1MF1P-9iLEpiK30UtGzXwis3Vm34fiUiKyeQKrTgYdA
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: '31b8b8c213f3009151a75191d2e597b051aa237636bcc019',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODEsInRva2VuX3R5cGUiOiJsb2dpbiJ9.lG6Qy7zozn1Wlh7i9pfi6OjWmg1MWjNZpIQaG_YjAX-1MF1P-9iLEpiK30UtGzXwis3Vm34fiUiKyeQKrTgYdA',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODEsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.KuJr6m81rfzpjnQSUfr9zqC4PJ8dcTPmGydF6FdrHkaWci1uIDEcW8Fkz4_Vvom47VPsCPttOONBPJdGCdfAFw',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODEsInRva2VuX3R5cGUiOiJsb2dpbiJ9.lG6Qy7zozn1Wlh7i9pfi6OjWmg1MWjNZpIQaG_YjAX-1MF1P-9iLEpiK30UtGzXwis3Vm34fiUiKyeQKrTgYdA
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: 'bc74d6ce13f79e5f1cedf359bfc8c9b50e07f0cb92e3b944',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODEsInRva2VuX3R5cGUiOiJsb2dpbiJ9.lG6Qy7zozn1Wlh7i9pfi6OjWmg1MWjNZpIQaG_YjAX-1MF1P-9iLEpiK30UtGzXwis3Vm34fiUiKyeQKrTgYdA',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODEsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.KuJr6m81rfzpjnQSUfr9zqC4PJ8dcTPmGydF6FdrHkaWci1uIDEcW8Fkz4_Vvom47VPsCPttOONBPJdGCdfAFw',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODEsInRva2VuX3R5cGUiOiJsb2dpbiJ9.lG6Qy7zozn1Wlh7i9pfi6OjWmg1MWjNZpIQaG_YjAX-1MF1P-9iLEpiK30UtGzXwis3Vm34fiUiKyeQKrTgYdA
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: '4d444d29be51beab58531309c0d0637520e66e2d34a1aa26',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODEsInRva2VuX3R5cGUiOiJsb2dpbiJ9.lG6Qy7zozn1Wlh7i9pfi6OjWmg1MWjNZpIQaG_YjAX-1MF1P-9iLEpiK30UtGzXwis3Vm34fiUiKyeQKrTgYdA',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODEsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.KuJr6m81rfzpjnQSUfr9zqC4PJ8dcTPmGydF6FdrHkaWci1uIDEcW8Fkz4_Vvom47VPsCPttOONBPJdGCdfAFw',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODEsInRva2VuX3R5cGUiOiJsb2dpbiJ9.lG6Qy7zozn1Wlh7i9pfi6OjWmg1MWjNZpIQaG_YjAX-1MF1P-9iLEpiK30UtGzXwis3Vm34fiUiKyeQKrTgYdA
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: '64150a2c5a4e5e88ad794626855e2c24e8c24b9fb124eeda',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODEsInRva2VuX3R5cGUiOiJsb2dpbiJ9.lG6Qy7zozn1Wlh7i9pfi6OjWmg1MWjNZpIQaG_YjAX-1MF1P-9iLEpiK30UtGzXwis3Vm34fiUiKyeQKrTgYdA',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODEsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.KuJr6m81rfzpjnQSUfr9zqC4PJ8dcTPmGydF6FdrHkaWci1uIDEcW8Fkz4_Vvom47VPsCPttOONBPJdGCdfAFw',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODEsInRva2VuX3R5cGUiOiJsb2dpbiJ9.lG6Qy7zozn1Wlh7i9pfi6OjWmg1MWjNZpIQaG_YjAX-1MF1P-9iLEpiK30UtGzXwis3Vm34fiUiKyeQKrTgYdA
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: '6e961dedad22596326b5304311dbf956575b6bf41c2608f6',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODEsInRva2VuX3R5cGUiOiJsb2dpbiJ9.lG6Qy7zozn1Wlh7i9pfi6OjWmg1MWjNZpIQaG_YjAX-1MF1P-9iLEpiK30UtGzXwis3Vm34fiUiKyeQKrTgYdA',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODEsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.KuJr6m81rfzpjnQSUfr9zqC4PJ8dcTPmGydF6FdrHkaWci1uIDEcW8Fkz4_Vvom47VPsCPttOONBPJdGCdfAFw',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODEsInRva2VuX3R5cGUiOiJsb2dpbiJ9.lG6Qy7zozn1Wlh7i9pfi6OjWmg1MWjNZpIQaG_YjAX-1MF1P-9iLEpiK30UtGzXwis3Vm34fiUiKyeQKrTgYdA
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: '3f541576b0a9bebdb9a4578878894e782ec2b97d741055ac',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODEsInRva2VuX3R5cGUiOiJsb2dpbiJ9.lG6Qy7zozn1Wlh7i9pfi6OjWmg1MWjNZpIQaG_YjAX-1MF1P-9iLEpiK30UtGzXwis3Vm34fiUiKyeQKrTgYdA',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODEsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.KuJr6m81rfzpjnQSUfr9zqC4PJ8dcTPmGydF6FdrHkaWci1uIDEcW8Fkz4_Vvom47VPsCPttOONBPJdGCdfAFw',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODEsInRva2VuX3R5cGUiOiJsb2dpbiJ9.lG6Qy7zozn1Wlh7i9pfi6OjWmg1MWjNZpIQaG_YjAX-1MF1P-9iLEpiK30UtGzXwis3Vm34fiUiKyeQKrTgYdA
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: 'c1529272911d8857a4ed00e7e0839b14e553be1ef6e05b93',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODIsInRva2VuX3R5cGUiOiJsb2dpbiJ9.6hhDCQX-VNhZ-lFyo8aRBiZiwvU2ctb9Neqhp1X0Z6GEwi48nf6gMsIS08kHMD_c71etVmOfsQZ4pYnRaLdNSw',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODIsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.VMWExmDJ1zneVJ4rwzroPKotezrvpjmTeC_nvnphSTamvsWX5dPLaGj_tHhWhHDq-znJHh3PX6yx-18eftiEYg',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODIsInRva2VuX3R5cGUiOiJsb2dpbiJ9.6hhDCQX-VNhZ-lFyo8aRBiZiwvU2ctb9Neqhp1X0Z6GEwi48nf6gMsIS08kHMD_c71etVmOfsQZ4pYnRaLdNSw
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: '195b4e8eca81436c2a02a28ebbe0ab67c4a86fe22c2b0dc6',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODIsInRva2VuX3R5cGUiOiJsb2dpbiJ9.6hhDCQX-VNhZ-lFyo8aRBiZiwvU2ctb9Neqhp1X0Z6GEwi48nf6gMsIS08kHMD_c71etVmOfsQZ4pYnRaLdNSw',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODIsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.VMWExmDJ1zneVJ4rwzroPKotezrvpjmTeC_nvnphSTamvsWX5dPLaGj_tHhWhHDq-znJHh3PX6yx-18eftiEYg',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODIsInRva2VuX3R5cGUiOiJsb2dpbiJ9.6hhDCQX-VNhZ-lFyo8aRBiZiwvU2ctb9Neqhp1X0Z6GEwi48nf6gMsIS08kHMD_c71etVmOfsQZ4pYnRaLdNSw
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: '518f8e7f06c95331b576750a1a3b7bc7742e8ea2c6bbd5cc',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODIsInRva2VuX3R5cGUiOiJsb2dpbiJ9.6hhDCQX-VNhZ-lFyo8aRBiZiwvU2ctb9Neqhp1X0Z6GEwi48nf6gMsIS08kHMD_c71etVmOfsQZ4pYnRaLdNSw',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODIsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.VMWExmDJ1zneVJ4rwzroPKotezrvpjmTeC_nvnphSTamvsWX5dPLaGj_tHhWhHDq-znJHh3PX6yx-18eftiEYg',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODIsInRva2VuX3R5cGUiOiJsb2dpbiJ9.6hhDCQX-VNhZ-lFyo8aRBiZiwvU2ctb9Neqhp1X0Z6GEwi48nf6gMsIS08kHMD_c71etVmOfsQZ4pYnRaLdNSw
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: 'b8c78e0066cadcd8cfbea38e631df4631ef67f3fe16fceb5',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODIsInRva2VuX3R5cGUiOiJsb2dpbiJ9.6hhDCQX-VNhZ-lFyo8aRBiZiwvU2ctb9Neqhp1X0Z6GEwi48nf6gMsIS08kHMD_c71etVmOfsQZ4pYnRaLdNSw',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODIsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.VMWExmDJ1zneVJ4rwzroPKotezrvpjmTeC_nvnphSTamvsWX5dPLaGj_tHhWhHDq-znJHh3PX6yx-18eftiEYg',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODIsInRva2VuX3R5cGUiOiJsb2dpbiJ9.6hhDCQX-VNhZ-lFyo8aRBiZiwvU2ctb9Neqhp1X0Z6GEwi48nf6gMsIS08kHMD_c71etVmOfsQZ4pYnRaLdNSw
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: 'c36e72bf1de19ff61ae73058d7d55caee26897adde3fc08f',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODIsInRva2VuX3R5cGUiOiJsb2dpbiJ9.6hhDCQX-VNhZ-lFyo8aRBiZiwvU2ctb9Neqhp1X0Z6GEwi48nf6gMsIS08kHMD_c71etVmOfsQZ4pYnRaLdNSw',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODIsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.VMWExmDJ1zneVJ4rwzroPKotezrvpjmTeC_nvnphSTamvsWX5dPLaGj_tHhWhHDq-znJHh3PX6yx-18eftiEYg',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODIsInRva2VuX3R5cGUiOiJsb2dpbiJ9.6hhDCQX-VNhZ-lFyo8aRBiZiwvU2ctb9Neqhp1X0Z6GEwi48nf6gMsIS08kHMD_c71etVmOfsQZ4pYnRaLdNSw
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: '5f4baeeb88b9c893a2ca873fcafe947b951cb8cb8a54e386',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODIsInRva2VuX3R5cGUiOiJsb2dpbiJ9.6hhDCQX-VNhZ-lFyo8aRBiZiwvU2ctb9Neqhp1X0Z6GEwi48nf6gMsIS08kHMD_c71etVmOfsQZ4pYnRaLdNSw',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODIsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.VMWExmDJ1zneVJ4rwzroPKotezrvpjmTeC_nvnphSTamvsWX5dPLaGj_tHhWhHDq-znJHh3PX6yx-18eftiEYg',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODIsInRva2VuX3R5cGUiOiJsb2dpbiJ9.6hhDCQX-VNhZ-lFyo8aRBiZiwvU2ctb9Neqhp1X0Z6GEwi48nf6gMsIS08kHMD_c71etVmOfsQZ4pYnRaLdNSw
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: '00f5f79d259fa5ab7bb5d5ab41ca29a1ff0afa72e43b5475',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODIsInRva2VuX3R5cGUiOiJsb2dpbiJ9.6hhDCQX-VNhZ-lFyo8aRBiZiwvU2ctb9Neqhp1X0Z6GEwi48nf6gMsIS08kHMD_c71etVmOfsQZ4pYnRaLdNSw',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODIsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.VMWExmDJ1zneVJ4rwzroPKotezrvpjmTeC_nvnphSTamvsWX5dPLaGj_tHhWhHDq-znJHh3PX6yx-18eftiEYg',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODIsInRva2VuX3R5cGUiOiJsb2dpbiJ9.6hhDCQX-VNhZ-lFyo8aRBiZiwvU2ctb9Neqhp1X0Z6GEwi48nf6gMsIS08kHMD_c71etVmOfsQZ4pYnRaLdNSw
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: '4bb7d7ceb96d25e354474bfa2b5602d7a2787ae26c9a6cc3',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODIsInRva2VuX3R5cGUiOiJsb2dpbiJ9.6hhDCQX-VNhZ-lFyo8aRBiZiwvU2ctb9Neqhp1X0Z6GEwi48nf6gMsIS08kHMD_c71etVmOfsQZ4pYnRaLdNSw',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODIsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.VMWExmDJ1zneVJ4rwzroPKotezrvpjmTeC_nvnphSTamvsWX5dPLaGj_tHhWhHDq-znJHh3PX6yx-18eftiEYg',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODIsInRva2VuX3R5cGUiOiJsb2dpbiJ9.6hhDCQX-VNhZ-lFyo8aRBiZiwvU2ctb9Neqhp1X0Z6GEwi48nf6gMsIS08kHMD_c71etVmOfsQZ4pYnRaLdNSw
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: 'e63717263bb7e1240e3e28ad6f41f4a041ca44a1b424c349',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODIsInRva2VuX3R5cGUiOiJsb2dpbiJ9.6hhDCQX-VNhZ-lFyo8aRBiZiwvU2ctb9Neqhp1X0Z6GEwi48nf6gMsIS08kHMD_c71etVmOfsQZ4pYnRaLdNSw',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODIsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.VMWExmDJ1zneVJ4rwzroPKotezrvpjmTeC_nvnphSTamvsWX5dPLaGj_tHhWhHDq-znJHh3PX6yx-18eftiEYg',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODIsInRva2VuX3R5cGUiOiJsb2dpbiJ9.6hhDCQX-VNhZ-lFyo8aRBiZiwvU2ctb9Neqhp1X0Z6GEwi48nf6gMsIS08kHMD_c71etVmOfsQZ4pYnRaLdNSw
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: '6ca94695ac526235127a88c80dbcdae7400e23365c9812cd',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODIsInRva2VuX3R5cGUiOiJsb2dpbiJ9.6hhDCQX-VNhZ-lFyo8aRBiZiwvU2ctb9Neqhp1X0Z6GEwi48nf6gMsIS08kHMD_c71etVmOfsQZ4pYnRaLdNSw',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODIsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.VMWExmDJ1zneVJ4rwzroPKotezrvpjmTeC_nvnphSTamvsWX5dPLaGj_tHhWhHDq-znJHh3PX6yx-18eftiEYg',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODIsInRva2VuX3R5cGUiOiJsb2dpbiJ9.6hhDCQX-VNhZ-lFyo8aRBiZiwvU2ctb9Neqhp1X0Z6GEwi48nf6gMsIS08kHMD_c71etVmOfsQZ4pYnRaLdNSw
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: 'a87ba91c7144318a45b3c2ac8282da1fceebe7a7e927ccbd',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODIsInRva2VuX3R5cGUiOiJsb2dpbiJ9.6hhDCQX-VNhZ-lFyo8aRBiZiwvU2ctb9Neqhp1X0Z6GEwi48nf6gMsIS08kHMD_c71etVmOfsQZ4pYnRaLdNSw',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODIsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.VMWExmDJ1zneVJ4rwzroPKotezrvpjmTeC_nvnphSTamvsWX5dPLaGj_tHhWhHDq-znJHh3PX6yx-18eftiEYg',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODIsInRva2VuX3R5cGUiOiJsb2dpbiJ9.6hhDCQX-VNhZ-lFyo8aRBiZiwvU2ctb9Neqhp1X0Z6GEwi48nf6gMsIS08kHMD_c71etVmOfsQZ4pYnRaLdNSw
+Auth token updated in .env file
+{
+  meta: {
+    spree_api_key: '96fcb90bf18ce2b91fa25285b254ee76c848b83ac74f7038',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODIsInRva2VuX3R5cGUiOiJsb2dpbiJ9.6hhDCQX-VNhZ-lFyo8aRBiZiwvU2ctb9Neqhp1X0Z6GEwi48nf6gMsIS08kHMD_c71etVmOfsQZ4pYnRaLdNSw',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3NTI1ODc4ODIsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.VMWExmDJ1zneVJ4rwzroPKotezrvpjmTeC_nvnphSTamvsWX5dPLaGj_tHhWhHDq-znJHh3PX6yx-18eftiEYg',
+    id: 121,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTIxLCJleHAiOjE3MjExMzgyODIsInRva2VuX3R5cGUiOiJsb2dpbiJ9.6hhDCQX-VNhZ-lFyo8aRBiZiwvU2ctb9Neqhp1X0Z6GEwi48nf6gMsIS08kHMD_c71etVmOfsQZ4pYnRaLdNSw
+Auth token updated in .env file

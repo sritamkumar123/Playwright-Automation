@@ -1,0 +1,54 @@
+{
+  data: {
+    id: '8',
+    type: 'wishlist',
+    attributes: { user_id: 101, products: [Object] }
+  }
+}
+----------------------------------------------------------
+{
+  data: [
+    { id: '1', type: 'product', attributes: [Object] },
+    { id: '8', type: 'product', attributes: [Object] }
+  ]
+}
+----------------------------------------------------------
+{
+  name: 'NexGard® (afoxolaner) Chewables',
+  description: ' NexGard is a flea and tick control product that’s FDA-approved to prevent infections that cause Lyme disease in dogs as a result of killing black-legged ticks. And each bite-sized monthly dose is gentle enough to give to puppies and dogs as young as 8 weeks, weighing as little as 4 pounds',
+  price: '27.92',
+  available_on: '2024-04-04T00:00:00.000Z',
+  shipping_category_id: 1,
+  tax_category_id: null,
+  slug: 'nexgard-afoxolaner-chewables',
+  spree_store: null,
+  option_types: { data: [ [Object], [Object] ] },
+  properties: { data: [ [Object], [Object], [Object], [Object] ] },
+  images: [
+    {
+      name: 'nexgard.jpg',
+      url: 'https://petcurezone-bucket.s3.ap-south-1.amazonaws.com/qa-petcurezone/petcurezone-bucket/seuta2eioce4h4kdh81h3iyal1e3'
+    },
+    {
+      name: 'elanco.png',
+      url: 'https://petcurezone-bucket.s3.ap-south-1.amazonaws.com/qa-petcurezone/petcurezone-bucket/ai4zl8rli24ujv4b1ien2wgu15ld'
+    },
+    {
+      name: 'zoetis.png',
+      url: 'https://petcurezone-bucket.s3.ap-south-1.amazonaws.com/qa-petcurezone/petcurezone-bucket/9gdcx4h1quhxs7su2arvnfzafsob'
+    },
+    {
+      name: 'merck.png',
+      url: 'https://petcurezone-bucket.s3.ap-south-1.amazonaws.com/qa-petcurezone/petcurezone-bucket/nsyt8skall9pdx2dd8qgmxtubo9b'
+    },
+    {
+      name: 'datastore.png',
+      url: 'https://petcurezone-bucket.s3.ap-south-1.amazonaws.com/qa-petcurezone/petcurezone-bucket/3x8owroyjpf6fftvaj7drv1tn0qe'
+    },
+    {
+      name: 'encrypt_payload.png',
+      url: 'https://petcurezone-bucket.s3.ap-south-1.amazonaws.com/qa-petcurezone/petcurezone-bucket/fks2djgf5pw95gz2gj3zekscq4ez'
+    }
+  ],
+  variants: { data: [ [Object], [Object], [Object], [Object] ] }
+}

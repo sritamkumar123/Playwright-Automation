@@ -1,0 +1,8 @@
+[@faker-js/faker]: faker.address is deprecated since v8.0 and will be removed in v10.0. Please use faker.location instead.
+[@faker-js/faker]: faker.location.cityName is deprecated since v8.0 and will be removed in v9.0. Please use faker.location.city instead.
+[@faker-js/faker]: faker.address is deprecated since v8.0 and will be removed in v10.0. Please use faker.location instead.
+[@faker-js/faker]: faker.location.cityName is deprecated since v8.0 and will be removed in v9.0. Please use faker.location.city instead.
+[@faker-js/faker]: faker.address is deprecated since v8.0 and will be removed in v10.0. Please use faker.location instead.
+[@faker-js/faker]: faker.location.cityName is deprecated since v8.0 and will be removed in v9.0. Please use faker.location.city instead.
+[@faker-js/faker]: faker.address is deprecated since v8.0 and will be removed in v10.0. Please use faker.location instead.
+[@faker-js/faker]: faker.location.cityName is deprecated since v8.0 and will be removed in v9.0. Please use faker.location.city instead.

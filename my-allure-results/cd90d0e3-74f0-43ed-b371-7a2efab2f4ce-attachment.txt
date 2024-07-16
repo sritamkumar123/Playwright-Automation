@@ -1,0 +1,40 @@
+{
+  code: 200,
+  message: 'Security guard deleted successfully.',
+  result: null,
+  errors: [],
+  meta: {}
+}
+deleted id: 666fc95d0f01c131972aeba0
+{
+  code: 200,
+  message: 'Security guard deleted successfully.',
+  result: null,
+  errors: [],
+  meta: {}
+}
+deleted id: 666fcb160f01c131972aeba1
+{
+  code: 200,
+  message: 'Security guard deleted successfully.',
+  result: null,
+  errors: [],
+  meta: {}
+}
+deleted id: 666fd2c20f01c131972aeba2
+{
+  code: 200,
+  message: 'Security guard deleted successfully.',
+  result: null,
+  errors: [],
+  meta: {}
+}
+deleted id: 666fd3430f01c131972aeba3
+{
+  code: 200,
+  message: 'Security guard deleted successfully.',
+  result: null,
+  errors: [],
+  meta: {}
+}
+deleted id: 666fd7a30f01c131972aeba4

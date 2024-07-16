@@ -1,0 +1,2 @@
+gurads ids are: ,,,,,,,,,,,,,,,,,,,,
+Total numbers of guards are: 21

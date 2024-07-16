@@ -1,0 +1,30 @@
+{ data: [ { id: '301', type: 'order', attributes: [Object] } ] }
+--------------------------------------------------------------
+{
+  number: 'R763205166',
+  total: '551.08',
+  user_id: 121,
+  store_id: 2,
+  state: 'complete',
+  payment_state: 'partially refunded',
+  shipment_state: 'shipped',
+  payment_intent_id: 'pi_1PauMsGD34R1rXKjd2QxeSjK',
+  payment_intent_status: 'partially refunded',
+  allow_cancel: false,
+  allow_return: false,
+  discount_id: 7,
+  adjustment_total: 61.8,
+  shipment_total: '5.99',
+  order_shipping_address: 'sample mail 05, Kesar Anata, Jagatpur, 382140, new city-987987, Colorado, United States',
+  order_billing_address: 'sample mail 05, Kesar Anata, Jagatpur, 382140, new city-987987, Colorado, United States',
+  coupon_code: '#FLAT30',
+  store_name: 'Pet cure zone',
+  order_date: 'Wednesday, 10 Jul 2024',
+  status_cycle: {
+    Confirmed: 'Wednesday, 10 Jul 2024',
+    Shipped: 'Wednesday, 10 Jul 2024',
+    'Out For Delivery': 'Wednesday, 10 Jul 2024',
+    Delivered: 'Wednesday, 10 Jul 2024'
+  },
+  line_items: { data: [ [Object], [Object], [Object], [Object] ] }
+}

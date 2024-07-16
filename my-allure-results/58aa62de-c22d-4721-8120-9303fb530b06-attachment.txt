@@ -1,0 +1,16 @@
+APIResponse: 200 
+  Server: nginx/1.18.0 (Ubuntu)
+  Date: Sat, 15 Jun 2024 14:21:55 GMT
+  Content-Type: application/json
+  Transfer-Encoding: chunked
+  Connection: close
+  Vary: Origin
+  Vary: Access-Control-Request-Method
+  Vary: Access-Control-Request-Headers
+  X-Content-Type-Options: nosniff
+  X-XSS-Protection: 0
+  Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+  Pragma: no-cache
+  Expires: 0
+  Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+  X-Frame-Options: DENY

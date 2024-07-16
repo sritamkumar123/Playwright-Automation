@@ -1,0 +1,14 @@
+{
+  data: {
+    id: '8',
+    type: 'wishlist',
+    attributes: { user_id: 101, products: [Object] }
+  }
+}
+----------------------------------------------------------
+{
+  data: [
+    { id: '1', type: 'product', attributes: [Object] },
+    { id: '8', type: 'product', attributes: [Object] }
+  ]
+}

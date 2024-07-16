@@ -1,0 +1,15 @@
+Request failed: SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at APIResponse.json (C:\Users\Sritam kumar\playwrightAutomation\node_modules\playwright-core\lib\client\fetch.js:296:17)
+    at C:\Users\Sritam kumar\playwrightAutomation\tests\apisTest\fileUpload.spec.js:93:35
+    at C:\Users\Sritam kumar\playwrightAutomation\node_modules\playwright\lib\worker\workerMain.js:336:9
+    at C:\Users\Sritam kumar\playwrightAutomation\node_modules\playwright\lib\worker\testInfo.js:297:11
+    at TimeoutManager.withRunnable (C:\Users\Sritam kumar\playwrightAutomation\node_modules\playwright\lib\worker\timeoutManager.js:53:14)
+    at TestInfoImpl._runAsStage (C:\Users\Sritam kumar\playwrightAutomation\node_modules\playwright\lib\worker\testInfo.js:295:7)
+    at C:\Users\Sritam kumar\playwrightAutomation\node_modules\playwright\lib\worker\workerMain.js:328:7
+    at C:\Users\Sritam kumar\playwrightAutomation\node_modules\playwright\lib\worker\testInfo.js:297:11
+    at TimeoutManager.withRunnable (C:\Users\Sritam kumar\playwrightAutomation\node_modules\playwright\lib\worker\timeoutManager.js:41:27)
+    at TestInfoImpl._runAsStage (C:\Users\Sritam kumar\playwrightAutomation\node_modules\playwright\lib\worker\testInfo.js:295:7)
+    at WorkerMain._runTest (C:\Users\Sritam kumar\playwrightAutomation\node_modules\playwright\lib\worker\workerMain.js:278:5)
+    at WorkerMain.runTestGroup (C:\Users\Sritam kumar\playwrightAutomation\node_modules\playwright\lib\worker\workerMain.js:202:11)
+    at process.<anonymous> (C:\Users\Sritam kumar\playwrightAutomation\node_modules\playwright\lib\common\process.js:94:22)

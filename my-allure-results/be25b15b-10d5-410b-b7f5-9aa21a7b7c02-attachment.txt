@@ -1,0 +1,11 @@
+{
+  meta: {
+    spree_api_key: '32705f87be8f7ed750e334f937a57c4c16ed0c9db834a5ec',
+    token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTAxLCJleHAiOjE3MjA4NzgyMTcsInRva2VuX3R5cGUiOiJsb2dpbiJ9.GN0QYeD3ei04rty9NcmZCBipRDcusPmhDxcu24No9zNrQNsR3tl7VgbYE1wLM7BfU14iSwpPAsNeCrG2ZAJhmg',
+    refresh_token: 'eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTAxLCJleHAiOjE3NTIzMjc4MTcsInRva2VuX3R5cGUiOiJyZWZyZXNoIn0.GgLX8j0pnuhkVrUyjVOsC-3UOJRogXnFIEyHW1F0gxtNJlHevncl3AhhRvTuLuDWk2UNhnLjSJBYuJ2z0bXVXg',
+    id: 101,
+    spree_name: 'Pet cure zone'
+  }
+}
+The auth token is: eyJhbGciOiJIUzUxMiJ9.eyJpZCI6MTAxLCJleHAiOjE3MjA4NzgyMTcsInRva2VuX3R5cGUiOiJsb2dpbiJ9.GN0QYeD3ei04rty9NcmZCBipRDcusPmhDxcu24No9zNrQNsR3tl7VgbYE1wLM7BfU14iSwpPAsNeCrG2ZAJhmg
+Auth token updated in .env file

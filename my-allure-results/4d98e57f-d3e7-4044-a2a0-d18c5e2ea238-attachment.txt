@@ -1,0 +1,15 @@
+{
+  code: 200,
+  message: 'Security guard member created successfully.',
+  result: {
+    id: '665cbb3cc35b5764052439b4',
+    emailId: 'Buddy.Greenfelder@gmail.com',
+    name: 'Guard',
+    password: '4NEL9uAF9FfWA2h7qJSz9Q==',
+    location: [ '664de86498eb6f308286694f' ],
+    token: null,
+    event: '66548dcdc35b576405243929'
+  },
+  errors: [],
+  meta: {}
+}

@@ -1,0 +1,31 @@
+{
+  code: 200,
+  message: 'Teams fetched successfully',
+  result: {
+    totalRecords: 12,
+    currentRecords: 12,
+    teamDtoList: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ]
+  },
+  errors: []
+}
+[
+  '66694ff6c500707a27635ee2',
+  '66694d04c500707a27635ee1',
+  '66692ca8c500707a27635eda',
+  '666007e61a21096c99155d3e',
+  '666007db1a21096c99155d3d',
+  '666007d11a21096c99155d3c',
+  '666007c71a21096c99155d3b',
+  '666007bb1a21096c99155d3a',
+  '666007a11a21096c99155d38',
+  '666007801a21096c99155d35',
+  '666007611a21096c99155d34',
+  '666007501a21096c99155d33'
+]
